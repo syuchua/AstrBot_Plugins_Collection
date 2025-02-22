@@ -433,5 +433,10 @@
         "desc": "Astrbot色图插件，支持自定义配置与标签指定",
         "author": "Raven95676",
         "repo": "https://github.com/Raven95676/astrbot_plugin_setu"
-    }
+    },
+    "astrbot_plugin_voicevox": {
+        "desc": "基于VOICEVOX Engine的日语文本转语音插件",
+        "author": "buding",
+        "repo": "https://github.com/zouyonghe/astrbot_plugin_voicevox"
+    } 
 }
