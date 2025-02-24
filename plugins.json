@@ -1,4 +1,9 @@
 {
+  "astrbot_plugin_superpoke":{
+    "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
+    "author": "waterfeet",
+    "repo": "https://github.com/waterfeet/astrbot_plugin_superpoke"
+  }
   "astrbot_plugin_humanlike": {
     "desc": "anka - 让ai更像真人 - 学会沉默",
     "author": "anka",
