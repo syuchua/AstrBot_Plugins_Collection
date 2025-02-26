@@ -146,10 +146,15 @@
     "author": "kjqwdw",
     "repo": "https://github.com/kjqwer/astrbot_plugin_game_sy"
   },
-  "holdem_poker": {
+  "astrbot_plugin_texas_holdem_poker": {
     "desc": "简单的德州扑克，/poker就可以开玩了",
     "author": "w33d",
     "repo": "https://github.com/Last-emo-boy/astrbot_plugin_texas_holdem_poker"
+  },
+  "astrbot_plugin_holdem_poker": {
+    "desc": "修改自 w33d 的德州扑克。原插件仅支持微信，现支持 QQ 群。此外增加了每轮下注上限金额，为小盲注的10倍，可自行调整或删去",
+    "author": "SamsaraMBJC",
+    "repo": "https://github.com/SamsaraMBJC/astrbot_plugin_holdem_poker"
   },
   "astrbot_plugin_essential": {
     "desc": "随机动漫图片、以图搜番、Minecraft服务器、一言、今天吃什么、群早晚安记录、EPIC喜加一。帮助：https://github.com/Soulter/astrbot_plugin_essential",
@@ -455,10 +460,5 @@
     "desc": "基于VOICEVOX Engine的日语文本转语音插件",
     "author": "buding",
     "repo": "https://github.com/zouyonghe/astrbot_plugin_voicevox"
-  },
-    "astrbot_plugin_holdem_poker": {
-    "desc": "德州扑克,支持QQ群",
-    "author": "SamsaraMBJC",
-    "repo": "https://github.com/Last-emo-boy/astrbot_plugin_texas_holdem_poker"
   }
 }
