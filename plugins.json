@@ -387,6 +387,11 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_memeify"
   },
+  "astrbot_plugin_DailyWife": {
+    "desc": "每日老婆插件，请配置NapCat！！",
+    "author": "jmt059",
+    "repo": "https://github.com/jmt059/DailyWife"
+  },
   "astrbot_plugin_AW": {
     "desc": "群老婆插件，记得点右上角帮助查看readme",
     "author": "长安某",
