@@ -1,4 +1,10 @@
 {
+  "astrbot_sowing_discord": {
+    "desc": "[仅限 aiocqhttp 适配器] anka - 自动搬史插件, 1.加入喜欢发史的群聊 2.设置搬史来源 3.设置搬史目标 4.开始全自动搬史!",
+    "author": "anka",
+    "repo": "https://github.com/anka-afk/astrbot_sowing_discord",
+    "tags": ["功能", "搬史"]
+  },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
     "author": "waterfeet",
