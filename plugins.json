@@ -455,5 +455,10 @@
     "desc": "基于VOICEVOX Engine的日语文本转语音插件",
     "author": "buding",
     "repo": "https://github.com/zouyonghe/astrbot_plugin_voicevox"
+  },
+    "astrbot_plugin_holdem_poker": {
+    "desc": "德州扑克,支持QQ群",
+    "author": "SamsaraMBJC",
+    "repo": "https://github.com/Last-emo-boy/astrbot_plugin_texas_holdem_poker"
   }
 }
