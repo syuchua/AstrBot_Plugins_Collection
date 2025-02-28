@@ -488,5 +488,10 @@
     "desc": "基于lolicon api的涩图插件",
     "author": "rikka",
     "repo": "https://github.com/rikkasaiko/astrbot_plugin_img_lolicon"
+  },
+  "astrbot_plugin_miaomiao": {
+    "desc": "这是一个为 AstrBot 开发的插件，仍然在开发中，提供了一些有趣的功能，如随机推荐食物、扔骰子、生成语音等",
+    "author": "喵喵",
+    "repo": "https://github.com/miaoxutao123/astrbot_plugin_miaomiao"
   }
 }
