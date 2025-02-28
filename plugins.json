@@ -1,11 +1,10 @@
 {
   "astrbot_plugin_hltv": {
-    "desc": "这是基于hltv网站数据的cs赛事查询插件",
+    "desc": "这是基于 HLTV 网站数据的 CS 赛事查询插件",
     "author": "Jason",
     "repo": "https://github.com/advent259141/astrbot_plugin_hltv",
-    "tag": ["功能","数据查询"]
+    "tag": ["功能", "游戏", "数据查询"]
   },
-{
   "astrbot_plugin_moyuren": {
     "desc": "每天定时推送摸鱼人日历",
     "author": "quirrel-zh",
