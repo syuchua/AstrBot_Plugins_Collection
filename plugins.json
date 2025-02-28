@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_github_cards": {
+    "desc": "根据聊天中 GitHub 相关链接自动发送 GitHub 仓库简介/issue/pr卡片",
+    "author": "Soulter",
+    "repo": "https://github.com/Soulter/astrbot_plugin_github_cards",
+    "tag": ["功能"]
+  },
   "astrbot_plugin_hltv": {
     "desc": "这是基于 HLTV 网站数据的 CS 赛事查询插件",
     "author": "Jason",
