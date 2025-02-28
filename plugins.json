@@ -224,11 +224,6 @@
     "author": "Camreishi",
     "repo": "https://github.com/Camreishi/astrbot_plugin_wol"
   },
-  "astrbot_plugin_lolicon_image": {
-    "desc": "lolicon 瑟图插件，/setu_help 查看帮助",
-    "author": "rikka",
-    "repo": "https://github.com/rikkamiss/astrbot_plugin_lolicon_image"
-  },
   "astrbot_plugin_SDGen": {
     "desc": "Stable Diffusion WebUI图片生成插件，/sd help 查看帮助",
     "author": "buding",
@@ -483,5 +478,15 @@
     "desc": "基于VOICEVOX Engine的日语文本转语音插件",
     "author": "buding",
     "repo": "https://github.com/zouyonghe/astrbot_plugin_voicevox"
+  },
+    "astrbot_plugin_anime_trace": {
+    "desc": "基于animedb api的动漫角色识别插件",
+    "author": "rikka",
+    "repo": "https://github.com/rikkasaiko/astrbot_plugin_anime_trace"
+  },
+      "astrbot_plugin_img_lolicon": {
+    "desc": "基于lolicon api的涩图插件",
+    "author": "rikka",
+    "repo": "https://github.com/rikkasaiko/astrbot_plugin_img_lolicon"
   }
 }
