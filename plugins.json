@@ -479,12 +479,12 @@
     "author": "buding",
     "repo": "https://github.com/zouyonghe/astrbot_plugin_voicevox"
   },
-    "astrbot_plugin_anime_trace": {
+  "astrbot_plugin_anime_trace": {
     "desc": "基于animedb api的动漫角色识别插件",
     "author": "rikka",
     "repo": "https://github.com/rikkasaiko/astrbot_plugin_anime_trace"
   },
-      "astrbot_plugin_img_lolicon": {
+  "astrbot_plugin_img_lolicon": {
     "desc": "基于lolicon api的涩图插件",
     "author": "rikka",
     "repo": "https://github.com/rikkasaiko/astrbot_plugin_img_lolicon"
