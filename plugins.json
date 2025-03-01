@@ -493,5 +493,10 @@
     "desc": "这是一个为 AstrBot 开发的插件，仍然在开发中，提供了一些有趣的功能，如随机推荐食物、扔骰子、生成语音等",
     "author": "喵喵",
     "repo": "https://github.com/miaoxutao123/astrbot_plugin_miaomiao"
+  },
+  "astrbot_plugin_image_video_understanding_Qwen2.5_VL": {
+    "desc": "为本地模型提供的视频/图片理解补充，使用Qwen2.5_3B_VL模型",
+    "author": "xiewoc",
+    "repo": "https://github.com/xiewoc/astrbot_plugin_image_video_understanding_Qwen2_5_VL"
   }
 }
