@@ -498,5 +498,10 @@
     "desc": "为本地模型提供的视频/图片理解补充，使用Qwen2.5_3B_VL模型",
     "author": "xiewoc",
     "repo": "https://github.com/xiewoc/astrbot_plugin_image_video_understanding_Qwen2_5_VL"
+  },
+  "astrbot_plugin_native_music": {
+    "desc": "一个本地音乐点播插件",
+    "author": "syuchua",
+    "repo": "https://github.com/syuchua/astrbot_plugin_native_music"
   }
 }
